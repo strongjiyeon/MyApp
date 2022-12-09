@@ -2,3 +2,4 @@
 * Add, Commit, Push 하기
 * pull, patch 하기
 * VSCode 메뉴를 사용해서 Add, Commit 해보기
+* SourceTree 메뉴를 사용해서 Add, Commit 해보기
